@@ -29,4 +29,19 @@ MY HTML Journey
 </Body>
 </html>
 
+#Adding an image
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Images</h2>
+<p>My first Image:</p>
+
+<img src='Papi.png alt=https://academy.powerlearnprojectafrica.org/dashboard' width='200' height=''400>
+
+</body>
+</html>
+
+
 
