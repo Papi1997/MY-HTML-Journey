@@ -86,5 +86,21 @@ MY HTML Journey
 </body>
 </html>
 
+HTML IMAGES#
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>My Image</h2>
+<p>HTML images for Tonny onwonga:</p>
+<p>Papito:</p>
+
+<img src=""C:\Users\Tonny.Onwonga\Pictures\Camera Roll"" alt="plpacdemy.com" width="150" height="230">
+
+</body>
+</html>
+
+
 
 
