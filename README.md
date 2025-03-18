@@ -72,4 +72,19 @@ MY HTML Journey
 </html>
 
 
+#HTML LINKS
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Links</h2>
+<p>This is an HTML Link:</p>
+
+<a href="[https://www.w3schools.com](https://academy.powerlearnprojectafrica.org/module)">This is a link</a>
+
+</body>
+</html>
+
+
 
