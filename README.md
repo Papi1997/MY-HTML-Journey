@@ -140,7 +140,7 @@ HTML IMAGES#
 
 <p>HTML links are defined with the a tag. The link address is specified in the href attribute:</p>
 
-<a href="[https://www.w3schools.com](https://academy.powerlearnprojectafrica.org/login)">Visit PLP LOGIN</a>
+<a href="https://academy.powerlearnprojectafrica.org/login">Visit PLP LOGIN</a>
 
 </body>
 </html>
