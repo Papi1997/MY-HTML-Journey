@@ -243,6 +243,20 @@ HTML IMAGES#
 </html>
 
 
+#FONT SIZE
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="font-size:400%;">This is a heading</h1>
+<p style="font-size:160%;">This is a paragraph.</p>
+
+</body>
+</html>
+
+
+
+
 
 
 
