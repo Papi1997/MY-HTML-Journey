@@ -209,6 +209,17 @@ HTML IMAGES#
 </html>
 
 
+<!DOCTYPE html>
+<html>
+<body style="background-color:yellow;">
+
+<h1 style="color:purple;">This is a heading</h1>
+<p  style="color:green;">This is a paragraph.</p>
+
+</body>
+</html>
+
+
 
 
 
