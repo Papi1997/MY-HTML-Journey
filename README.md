@@ -101,6 +101,34 @@ HTML IMAGES#
 </body>
 </html>
 
+#<br> element.Used to define a line break and its empty
+
+<!DOCTYPE html>
+<html>
+<body> 
+
+<p>This is a <br> paragraph with a line break.</p>
+
+</body>
+</html>
+
+#HTML <h1> to <h6> Tags
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>PLPAcademy 1</h1>
+<h2>My assigment 2</h2>
+<h3>Fo the period 3</h3>
+<h4>2025 4</h4>
+<h5>Software Enineering 5</h5>
+<h6>Web Development 6</h6>
+
+<p><b>Tip:<br> Use h1 to h6 elements only for headings. Do not use them just to make text bold or big. Use other tags for that.</p>
+
+</body>
+</html>
+
 
 
 
