@@ -196,6 +196,18 @@ HTML IMAGES#
 </body>
 </html>
 
+#The HTML Style Attribute
+
+<!DOCTYPE html>
+<html>
+<body style="background-color:purple;">
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
 
 
 
