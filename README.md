@@ -145,6 +145,20 @@ HTML IMAGES#
 </body>
 </html>
 
+#The src Attribute.The <img> tag is used to embed an image in an HTML page. The src attribute specifies the path to the image to be displayed
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Showing the SRC Attribute</h2>
+<p>HTML images are defined with the img tag, and the filename of the image source is specified in the src attribute:</p>
+
+<img src=""C:\Users\Tonny.Onwonga\Documents\img_girl.jpg" width="500" height="600">
+
+</body>
+</html>
+
+
 
 
 
