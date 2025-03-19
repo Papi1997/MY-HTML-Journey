@@ -129,6 +129,24 @@ HTML IMAGES#
 </body>
 </html>
 
+#HTML Attributes-provide additional information about HTML element.usually come in name/value pairs like: name="value"
+#The href Attribute
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The href Attribute</h2>
+
+<p>HTML links are defined with the a tag. The link address is specified in the href attribute:</p>
+
+<a href="[https://www.w3schools.com](https://academy.powerlearnprojectafrica.org/login)">Visit PLP LOGIN</a>
+
+</body>
+</html>
+
+
+
 
 
 
