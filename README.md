@@ -183,6 +183,21 @@ HTML IMAGES#
 </html>
 
 
+#The title Attribute..The title attribute defines some extra information about an element
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2 title="I'm a header">Tonny title Attribute</h2>
+
+<p title="This is a tip">Mouse over this paragraph, to display the title attribute as a tooltip.</p>
+
+</body>
+</html>
+
+
+
 
 
 
