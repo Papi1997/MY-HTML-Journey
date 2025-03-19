@@ -159,6 +159,22 @@ HTML IMAGES#
 </html>
 
 
+#The style Attribute.The style attribute is used to add styles to an element, such as color, font, size, and more
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The style Attribute</h1>
+<p>The style attribute is used to add styles to an element, such as color:</p>
+
+<p style="color:blue;">This is a blue line</p>
+
+</body>
+</html>
+
+
+
+
 
 
 
