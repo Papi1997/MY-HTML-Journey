@@ -219,7 +219,28 @@ HTML IMAGES#
 </body>
 </html>
 
+#Fonts
+<!DOCTYPE html>
+<html>
+<body>
 
+<h1 style="font-family:verdana;">This is a heading</h1>
+<p style="font-family:courier;">This is a paragraph.</p>
+
+</body>
+</html>
+
+#Fonts
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="font-family:times new roman;">This is a heading</h1>
+<p style="font-family:calibri;">This is a paragraph.</p>
+
+</body>
+</html>
 
 
 
