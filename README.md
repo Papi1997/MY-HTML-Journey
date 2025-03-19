@@ -173,6 +173,16 @@ HTML IMAGES#
 </html>
 
 
+#The lang Attribute..You should always include the lang attribute inside the <html> tag, to declare the language of the Web page
+
+<!DOCTYPE html>
+<html lang="en-US">
+<body>
+ <p>Welcome to my website!</p>
+</body>
+</html>
+
+
 
 
 
