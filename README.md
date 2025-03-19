@@ -255,6 +255,18 @@ HTML IMAGES#
 </html>
 
 
+#Text Alignment
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="text-align:left;">Centered Heading</h1>
+<h2 style="text-align:Right;">Centered Heading</h2>
+<p style="text-align:center;">Centered paragraph.</p>
+
+</body>
+</html>
+
 
 
 
