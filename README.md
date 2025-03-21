@@ -293,6 +293,15 @@ HTML IMAGES#
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>This <!-- comment --> is a paragraph.</p>
+
+</body>
+</html>
+
 
 
 
