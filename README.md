@@ -321,6 +321,20 @@ HTML IMAGES#
 </html>
 
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h3 style="color:Tomato;">Hello World</h3>
+
+<p style="color:DodgerBlue;">Tonny</p>
+
+<p style="color:MediumSeaGreen;">Onwonga.</p>
+
+</body>
+</html>
+
+
 
 
 
