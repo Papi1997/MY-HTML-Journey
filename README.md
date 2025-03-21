@@ -303,6 +303,24 @@ HTML IMAGES#
 </html>
 
 
+<!--HTML Colors-->
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="background-color:Tomato;">Tonny</h1>
+<h1 style="background-color:Orange;">Motangi</h1>
+<h1 style="background-color:DodgerBlue;">Obiero</h1>
+<h1 style="background-color:MediumSeaGreen;">Onsugu</h1>
+<h1 style="background-color:Gray;">Kereso</h1>
+<h1 style="background-color:SlateBlue;">SlateBlue</h1>
+<h1 style="background-color:Violet;">Violet</h1>
+<h1 style="background-color:LightGray;">LightGray</h1>
+
+</body>
+</html>
+
+
 
 
 
