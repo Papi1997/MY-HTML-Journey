@@ -280,6 +280,21 @@ HTML IMAGES#
 </body>
 </html>
 
+#HTML Comment Tag
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<!-- My name below -->
+<p>Tonny Onwonga.</p>
+<!-- End -->
+
+</body>
+</html>
+
+
+
 
 
 
