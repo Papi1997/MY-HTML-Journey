@@ -321,7 +321,7 @@ HTML IMAGES#
 </html>
 
 
-<!DOCTYPE html>
+<!--DOCTYPE html-->
 <html>
 <body>
 
@@ -335,6 +335,19 @@ HTML IMAGES#
 </html>
 
 
+<!--Border Color->
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="border: 2px solid green;">Hello World</h1>
+
+<h1 style="border: 3px solid Blue;">Tonny</h1>
+
+<h1 style="border: 4px solid Violet;">Onwonga</h1>
+
+</body>
+</html>
 
 
 
